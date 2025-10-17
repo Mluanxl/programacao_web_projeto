@@ -143,7 +143,11 @@ Protótipo.
 Diagrama Lógico de Banco de Dados / Código. 
     Código
         Local
-            banco_de_dados.sql 
+            banco_de_dados.sql
+
+    Código SQLite
+        Local
+            models.py ( usuario / evento ).
 
     Diagrama
         PDF/Diagrama Lógico.pdf
